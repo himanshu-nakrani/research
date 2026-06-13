@@ -9,6 +9,7 @@ conference-paper-ideas/
 ├── README.md                          # This file
 ├── conference-deadlines.md            # Upcoming deadlines
 ├── from-scratch-recommendations.md    # Realistic topics starting fresh
+├── sauna-report-june-2026.md          # Sauna report: 3 trends (Agentic RAG, Multi-turn T2S, Eval)
 ├── agents/
 │   ├── rl-for-agents.md               # RL training for LLM agents
 │   ├── agent-memory.md                # Memory architectures
